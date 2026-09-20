@@ -25,7 +25,7 @@ Archify is a Node.js rendering and validation system for Cursor, Claude Code, Co
 
 **Current development version:** `v2.17.0-dev.1`. See [Changelog](CHANGELOG.md#unreleased).
 
-**[Project page](https://tt-a1i.github.io/archify/)** · **[Scenario guide](https://tt-a1i.github.io/archify/guide.html)** · **[Proof Lab](https://tt-a1i.github.io/archify/gallery.html)**
+**[Project page](https://tt-a1i.github.io/archify/)** · **[Scenario guide](https://tt-a1i.github.io/archify/guide.html)** · **[Proof Lab](https://tt-a1i.github.io/archify/gallery.html)** · **[Discord](https://discord.gg/6xWMjgCeUq)**
 
 ```bash
 npx skills add tt-a1i/archify -g
@@ -275,6 +275,23 @@ The complete generation and viewer contract lives in [`archify/SKILL.md`](archif
 - [Generated Proof Lab](https://tt-a1i.github.io/archify/gallery.html)
 
 Automatic Mermaid parsing, general-purpose auto-layout, hosted sharing, and WYSIWYG editing are intentionally outside the current scope.
+
+## Community
+
+👋 **Welcome to the Archify Community!**
+
+Connect with other users and developers, share ideas, request features, report bugs, discuss development, and help make Archify better together.
+
+- <img src="docs/assets/community/discord.svg" alt="" width="18" /> [Discord](https://discord.gg/6xWMjgCeUq)
+- <img src="docs/assets/community/wechat.svg" alt="" width="18" /> WeChat: scan the QR code below. WeChat group codes expire periodically; if this one has expired, ask for the current code through Discord or QQ.
+- <img src="docs/assets/community/qq.svg" alt="" width="18" /> QQ group: `1121948602`
+
+<table>
+<tr>
+  <td align="center"><strong><img src="docs/assets/community/wechat.svg" alt="" width="18" /> WeChat</strong><br/><img src="docs/assets/community/wechat-qr.png" alt="Archify Official WeChat group QR code" width="300" height="300" /></td>
+  <td align="center"><strong><img src="docs/assets/community/qq.svg" alt="" width="18" /> QQ</strong><br/><img src="docs/assets/community/qq-qr.png" alt="Archify Official QQ group QR code" width="300" height="300" /></td>
+</tr>
+</table>
 
 ## License
 
